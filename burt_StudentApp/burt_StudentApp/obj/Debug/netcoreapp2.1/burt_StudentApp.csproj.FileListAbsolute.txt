@@ -1,0 +1,11 @@
+C:\Users\Owner\Documents\ITDEV115\burt_StudentApp\burt_StudentApp\bin\Debug\netcoreapp2.1\burt_StudentApp.deps.json
+C:\Users\Owner\Documents\ITDEV115\burt_StudentApp\burt_StudentApp\bin\Debug\netcoreapp2.1\burt_StudentApp.runtimeconfig.json
+C:\Users\Owner\Documents\ITDEV115\burt_StudentApp\burt_StudentApp\bin\Debug\netcoreapp2.1\burt_StudentApp.runtimeconfig.dev.json
+C:\Users\Owner\Documents\ITDEV115\burt_StudentApp\burt_StudentApp\bin\Debug\netcoreapp2.1\burt_StudentApp.dll
+C:\Users\Owner\Documents\ITDEV115\burt_StudentApp\burt_StudentApp\bin\Debug\netcoreapp2.1\burt_StudentApp.pdb
+C:\Users\Owner\Documents\ITDEV115\burt_StudentApp\burt_StudentApp\obj\Debug\netcoreapp2.1\burt_StudentApp.csprojAssemblyReference.cache
+C:\Users\Owner\Documents\ITDEV115\burt_StudentApp\burt_StudentApp\obj\Debug\netcoreapp2.1\burt_StudentApp.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\ITDEV115\burt_StudentApp\burt_StudentApp\obj\Debug\netcoreapp2.1\burt_StudentApp.AssemblyInfoInputs.cache
+C:\Users\Owner\Documents\ITDEV115\burt_StudentApp\burt_StudentApp\obj\Debug\netcoreapp2.1\burt_StudentApp.AssemblyInfo.cs
+C:\Users\Owner\Documents\ITDEV115\burt_StudentApp\burt_StudentApp\obj\Debug\netcoreapp2.1\burt_StudentApp.dll
+C:\Users\Owner\Documents\ITDEV115\burt_StudentApp\burt_StudentApp\obj\Debug\netcoreapp2.1\burt_StudentApp.pdb
